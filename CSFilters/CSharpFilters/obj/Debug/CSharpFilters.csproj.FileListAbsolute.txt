@@ -1,0 +1,17 @@
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.ColorInput.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.ColorSpaceDlg.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.Convolution.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.Form1.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.GammaInput.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.HLSDemo.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.HSLColorPicker.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.HueDlg.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.LuminanceDlg.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.Parameter.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.Resize.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.SaturationDlg.resources
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.csproj.GenerateResource.Cache
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\bin\Debug\CSharpFilters.exe
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\bin\Debug\CSharpFilters.pdb
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.exe
+D:\zzshare\zz2\image_transfroms2\image_transfroms2\CSharpFilters_src6\CSharpFilters\obj\Debug\CSharpFilters.pdb

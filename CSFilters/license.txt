@@ -1,0 +1,3 @@
+From CodeProject: Image Processing for Dummies with C# and GDI+ 
+Christian Graus
+license: CPOL
