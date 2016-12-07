@@ -32,6 +32,8 @@ namespace YLScsDrawing.Imaging
 
         int imgWidth, imgHeight;
         int stride;
+        int srcImageArrLen;
+
         public ImageData(int width, int height)
         {
             this.imgWidth = width;
@@ -60,7 +62,9 @@ namespace YLScsDrawing.Imaging
             // Unlock the bits.
             srcBmp.UnlockBits(bmpData);
             //--------------------------------------------------------
-            ColorRGBA[] colors = new ColorRGBA[w * h];
+            this.srcImageArrLen = w * h;
+            ColorRGBA[] colors = new ColorRGBA[srcImageArrLen];
+
             this.colorRGBAs = colors;
 
             // Copy the RGB values 
@@ -152,9 +156,19 @@ namespace YLScsDrawing.Imaging
             return bmp;
         }
 
+        static ColorRGBA whiteColor = new ColorRGBA(255, 255, 255, 255);
         public ColorRGBA GetColorPixel(int x, int y)
         {
-            return colorRGBAs[(y * imgWidth) + x];
+            int target = (y * imgWidth) + x;
+            if (target < srcImageArrLen)
+            {
+                return colorRGBAs[(y * imgWidth) + x];
+            }
+            else
+            {
+                return whiteColor;
+            }
+
         }
         public void SetColorPixel(int x, int y, ColorRGBA color)
         {
